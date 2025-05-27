@@ -1,0 +1,5 @@
+PSEUDOCODE
+Create a function that takes in a list of HashMaps.
+The hashmap contains two keys tasks and deadline
+Sort the HashMaps in ascending order
+Return the HashMap
