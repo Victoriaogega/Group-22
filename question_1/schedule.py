@@ -1,4 +1,4 @@
-from operator import itemgetter
+
 
 def scheduling(tasks):
     new_task = {'Javascript': 2300}
