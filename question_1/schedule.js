@@ -30,7 +30,7 @@
 const schedule = new TaskSchedule();
 
 schedule.addTask("Task 1", 2, ("2025-05-21"));   
-schedule.addTask("Task 2", 1, ("2025-05-22"));  
+schedule.addTask("Task 2", 1, ("2025-05-12"));  
 schedule.addTask("Task 3", 3, ("2025-05-22"));          
 schedule.addTask("Task 4", 1, ("2025-05-22"));  
 
